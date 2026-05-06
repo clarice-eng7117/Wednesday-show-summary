@@ -25,3 +25,9 @@ Between Season 1 and Season 2, the viewership decreased by **132.8 million views
 | **Views (Millions)** | 252.1 | 119.3 | -52.7% |
 
 > **Note on Calculation:** The decrease was calculated by taking the difference ($252.1 - 119.3 = 132.8$) and dividing it by the original Season 1 value.
+
+## Generative AI Disclosure
+In accordance with the assignment guidelines, the following generative AI tools were used:  
+- **Tool:** Gemini (Google)  
+- **Usage:** Assisted in generating the viewership comparison table and calculating the percentage decrease ($52.7\%$) between seasons.  
+- **Verification:** All numbers were manually cross-referenced with the Wikipedia *Wednesday* and *Most-watched Netflix original programming* entries (cited in references).
