@@ -72,3 +72,35 @@ $$Q = \frac{87 + 66}{2} = 76.5\%$$
   1. Calculated the raw difference and percentage drop in viewership between seasons.
   2. Assisted in formatting the Markdown tables and LaTeX equations.
   3. Provided 2026-dated viewership metrics sourced from Wikipedia’s "Most-Watched" archives.
+  
+## Viewership and Engagement Analysis
+
+The success of *Wednesday* can be measured both by the total audience reach and the sustained engagement across individual episodes.
+
+### Viewership Over Time (Season-to-Season)
+As shown in the graph below, Season 1 set a historic record for Netflix, while Season 2 saw a significant correction.
+
+![Viewership Over Time](graph-season.png)
+
+### Episode-to-Episode Rating Trends
+While raw viewership numbers are not released per episode by Netflix, user ratings provide insight into the season's momentum. Season 1 maintained a high and steady rating, peaking with the famous dance episode (Episode 4). In contrast, Season 2 started lower and showed more volatility.
+
+![Episode Ratings Trend](graph-ep-to-ep.png)
+
+### Observed Changes and Calculations
+A detailed look at the data reveals the following trends:  
+  
+1. **Massive Viewership Drop:** Between Season 1 and Season 2, the total 91-day viewership decreased from **252.1 million** to **119.3 million**. This is an absolute decrease of **132.8 million** views, or a **52.7%** drop.  
+2. **Quality Perception:** The average episode rating for Season 1 was approximately **8.4**, whereas Season 2's average dropped to **7.5**. This suggests that the "sophomore slump" affected both audience size and audience satisfaction.  
+3. **The "Dance Effect":** In Season 1, there was a noticeable spike in engagement at **Episode 4** ($8.7$ rating), which corresponds with the viral social media moment that propelled the show to its record-breaking status.  
+
+---
+
+### Generative AI Disclosure
+- **Tool Used:** Gemini (Google). 
+- **Tasks Performed:** 
+  1. Generated the graph to display viewership over time and episode ratings trend.
+  
+---
+
+  
