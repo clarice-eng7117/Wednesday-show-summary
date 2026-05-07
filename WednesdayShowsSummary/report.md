@@ -1,6 +1,18 @@
+---
+title: 'Viewership Analysis: *Wednesday*'
+author: "Kah Hui Eng 473090"
+date: "May 2026"
+output:
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    df_print: paged
+  pdf_document:
+    toc: true
+---
+
 # TV Show Report: Wednesday
-### Author: Kah Hui Eng
-### Student ID: 473090
 
 ## Description
 
@@ -103,4 +115,7 @@ A detailed look at the data reveals the following trends:
   
 ---
 
-  
+> **Technical Note:**   
+- This report is intentionally rendered in **HTML (Dynamic Digital Report)** format rather than PDF.  
+- This choice was made to utilize **Responsive Web Design** features, such as the floating Table of Contents and interactive layout, which are not supported in static LaTeX/PDF formats.  
+- This also sidesteps local LaTeX environment compatibility issues on macOS. (LaTex was not able to be installed in my machine)  
