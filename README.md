@@ -18,13 +18,13 @@ The report analyzes the "sophomore slump" phenomenon by comparing Season 1 and S
 
 ## 📂 File Structure
 * `report.Rmd`: The source code for the analysis.
-* `index.html`: The rendered digital report (Open this file in a browser to view).
-* `viewership_over_time.png`: Visualization of season-by-season reach.
-* `episode_ratings_trend.png`: Visualization of audience engagement per episode.
+* `report.html`: The rendered digital report (Open this file in a browser to view).
+* `graph-season.png`: Visualization of season-by-season reach.
+* `graph-ep-to-ep.png`: Visualization of audience engagement per episode.
 
 ## 🚀 How to View the Report
 1. Clone this repository.
-2. Open `index.html` in any modern web browser (Chrome, Safari, or Edge).
+2. Open `report.html` in any modern web browser (Chrome, Safari, or Edge).
 3. Use the floating sidebar on the left to navigate between sections.
 
 ---
